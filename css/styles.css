@@ -64,10 +64,6 @@ p {
 }
 
 /* ----------MODAL---------- */
-.wrapper-form {
-  max-width: 448px;
-  margin: 0 auto;
-}
 .backdrop {
   position: fixed;
   top: 0;
